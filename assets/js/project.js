@@ -56,26 +56,6 @@ const projects = [
     Githublink: "https://github.com/ShivangeeRajput/MangaX",
   },
   
-
-
- {
-    title: "My Notes App",
-    cardImage: "assets/images/project-page/notes.png",
-    description: "Flappy bird game built using React.js",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-   
-    Githublink: "https://github.com/ShivangeeRajput/MyNotes",
-  },
-{
-    title: "Memes",
-    cardImage: "assets/images/project-page/me.png",
-    description: "A Random meme generator app.",
-    tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
-   
-    Githublink: "https://github.com/ShivangeeRajput/Meme-App",
-  },
-  
-  
  {
     title: "Tic Tac Toe Game App",
     cardImage: "assets/images/project-page/tic-tac-toe.png",
@@ -84,6 +64,14 @@ const projects = [
     
    
     Githublink: "https://github.com/ShivangeeRajput/TicTacToe",
+  },
+    {
+    title: "Memes",
+    cardImage: "assets/images/project-page/me.png",
+    description: "A Random meme generator app.",
+    tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
+   
+    Githublink: "https://github.com/ShivangeeRajput/Meme-App",
   },
 ];
 
